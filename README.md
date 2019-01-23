@@ -1,2 +1,2 @@
-# JS-Color-game-project
+# JS-RGB-Color-game
 RGB Color game with JavaScript
